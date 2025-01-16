@@ -7,8 +7,8 @@ It allows objects to be treated as instances of their parent class rather than t
 This enables the same interface to perform different actions based on the object type.
 
 * `Polymorphism` comes in two forms in C#:
-    * `Compile-Time Polymorphism` (Static Binding, Method Overloading)
-    * `Run-Time Polymorphism` (Dynamic Binding, Method Overriding)
+  * `Compile-Time Polymorphism` (Static Binding, Method Overloading)
+  * `Run-Time Polymorphism` (Dynamic Binding, Method Overriding)
 
 # Reference:
 
