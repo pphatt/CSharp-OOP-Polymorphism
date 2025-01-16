@@ -1,6 +1,6 @@
 # C# OOP Polymorphism example
 
-### Abstraction Explained:
+### Polymorphism Explained:
 
 * `Polymorphism` in object-oriented programming means "many forms." 
 It allows objects to be treated as instances of their parent class rather than their actual class. 
